@@ -13,4 +13,3 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - name: Deploy Main
-        uses: appleboy/ssh-action@master
